@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/best_fit.o
+release/first_fit.o
+release/my_block.o
+release/my_memory.o
+release/worst_fit.o
+release/secondwindow.o
+release/callout.o
+release/moc_mainwindow.o
+release/moc_secondwindow.o

@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/best_fit.o
+debug/first_fit.o
+debug/my_block.o
+debug/my_memory.o
+debug/worst_fit.o
+debug/secondwindow.o
+debug/callout.o
+debug/moc_mainwindow.o
+debug/moc_secondwindow.o
